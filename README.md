@@ -1,2 +1,2 @@
 Web form created as school project
-Page github.io/Killertrol1/Obrazec
+Page https://killertrol1.github.io/Obrazec/
